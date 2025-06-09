@@ -38,3 +38,9 @@ To add selectable images, place a PNG file in the gfx folder
 
     Run cmd.exe as Administrator, enter:
       pip install pyusb
+
+### All Platforms
+	
+	pip install customtkinter
+	pip install pywinstyles
+	pip install pillow
